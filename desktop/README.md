@@ -3,7 +3,7 @@
 cara run:
 - pastikan tkinter terinstall bersama python
 - copy folder data yang berisi dataset dan model di folder root (setara dengan file app.py)
-- pip install -r requitements.txt
+- pip install -r requirements.txt
 - python app.py
 
 cara install python dengan TKinter:

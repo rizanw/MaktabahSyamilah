@@ -2,5 +2,5 @@
 
 cara run:
 - copy folder data yang berisi dataset dan model di folder main
-- pip install -r requitements.txt
+- pip install -r requirements.txt
 - python manage.py runserver
