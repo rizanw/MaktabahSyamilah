@@ -86,3 +86,7 @@ pyinstaller --onefile app.spec
 ## Background
 
 Built in 2020. <!-- TODO: add context, e.g. which course or research project this was for and what your role was -->
+
+## License
+
+[MIT](LICENSE) for the source code. The book texts in the dataset are not covered by this license.
